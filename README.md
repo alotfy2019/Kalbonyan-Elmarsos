@@ -48,7 +48,7 @@
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 JS Course <br />
-![79%](https://progress-bar.dev/0/?title=In Progress) 
+![79%](https://progress-bar.dev/0/?title=InProgress) 
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
